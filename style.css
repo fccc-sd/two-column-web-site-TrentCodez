@@ -109,16 +109,19 @@ img
     margin: 10px;
 }
 
-tr, th, td{
+tr, th, td
+{
     color: white;
     text-align: left;
     padding-right: 20px;
 }
 
-table{
+table
+{
     border-collapse: collapse;
 }
 
-caption{
+caption
+{
     color: white;
 }
